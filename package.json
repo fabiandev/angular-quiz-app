@@ -34,7 +34,7 @@
     "body-parser": "^1.15.0",
     "compression": "^1.6.1",
     "errorhandler": "^1.4.3",
-    "express": "^4.13.4",
+    "express": "^4.17.3",
     "method-override": "^3.0.0",
     "newrelic": "^5.9.1",
     "node-env-file": "^0.1.8",
